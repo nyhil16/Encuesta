@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Encuesta</string>
+    <string name="Encuesta">Encuesta sobre sistemas operativos</string>
+    <string name="Vota">Vota por el mejor sistema:</string>
+    <string name="Windows">Windows</string>
+    <string name="linux">Linux</string>
+    <string name="ios">iOS</string>
+    <string name="Android">Android</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Resultado">Resultados:</string>
+    <string name="porWindows">Windows: </string>
+    <string name="porLinux">Linux: </string>
+    <string name="porIos">iOS: </string>
+    <string name="porAndroid">Android: </string>
+</resources>
